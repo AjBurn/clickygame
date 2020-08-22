@@ -1,62 +1,62 @@
 [
     {
       "id": 1,
-      "image": "/images/qop.jpg",
+      "image": "/clickygame/images/qop.jpg",
       "clicked": false
     },
     {
     "id": 2,
-    "image": "/images/alch.jpg",
+    "image": "/clickygame/images/alch.jpg",
     "clicked": false
     },
     {
     "id": 3,
-    "image": "/images/axe.jpg",
+    "image": "/clickygame/images/axe.jpg",
     "clicked": false
     },
     {
     "id": 4,
-    "image": "/images/jak.jpg",
+    "image": "/clickygame/images/jak.jpg",
     "clicked": false
     },
     {
     "id": 5,
-    "image": "/images/mag.jpg",
+    "image": "/clickygame/images/mag.jpg",
     "clicked": false
     },
     {
     "id": 6,
-    "image": "/images/meep.jpg",
+    "image": "/clickygame/images/meep.jpg",
     "clicked": false
     },
     {
     "id": 7,
-    "image": "/images/mir.jpg",
+    "image": "/clickygame/images/mir.jpg",
     "clicked": false
     },
     {
     "id": 8,
-    "image": "/images/pa.jpg",
+    "image": "/clickygame/images/pa.jpg",
     "clicked": false
     },
     {
     "id": 9,
-    "image": "/images/rub.jpg",
+    "image": "/clickygame/images/rub.jpg",
     "clicked": false
     },
     {
     "id": 10,
-    "image": "/images/storm.jpg",
+    "image": "/clickygame/images/storm.jpg",
     "clicked": false
     },
     {
     "id": 11,
-    "image": "/images/terror.jpg",
+    "image": "/clickygame/images/terror.jpg",
     "clicked": false
     },
     {
     "id": 12,
-    "image": "/images/void.jpg",
+    "image": "/clickygame/images/void.jpg",
     "clicked": false
     }
   ]
