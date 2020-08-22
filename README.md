@@ -2,7 +2,7 @@
 
 This react based memorization game challenges players to remember twelve different hero portaits. By clicking a hero portrait the user gains a point, however two clicks means game over.
 
-Deployed Link: 
+Deployed Link: https://ajburn.github.io/clickygame/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
